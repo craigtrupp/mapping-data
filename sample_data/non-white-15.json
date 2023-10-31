@@ -1,0 +1,77 @@
+{
+   "6":{
+      "name":"Lava Cap American River Red",
+      "region":"El Dorado, Sierra Foothills, California",
+      "variety":"Red Wine"
+   },
+   "7":{
+      "name":"Lava Cap Barbera 2010",
+      "region":"Sierra Foothills, California",
+      "variety":"Red Wine"
+   },
+   "9":{
+      "name":"Lava Cap Cabernet Sauvignon 2013",
+      "region":"El Dorado, Sierra Foothills, California",
+      "variety":"Red Wine"
+   },
+   "10":{
+      "name":"Lava Cap Cabernet Sauvignon 2016",
+      "region":"El Dorado, Sierra Foothills, California",
+      "variety":"Red Wine"
+   },
+   "11":{
+      "name":"Lava Cap Petite Sirah 2013",
+      "region":"El Dorado, Sierra Foothills, California",
+      "variety":"Red Wine"
+   },
+   "12":{
+      "name":"Lava Cap Petite Sirah 2014",
+      "region":"El Dorado, Sierra Foothills, California",
+      "variety":"Red Wine"
+   },
+   "13":{
+      "name":"Lava Cap Petite Sirah 2016",
+      "region":"El Dorado, Sierra Foothills, California",
+      "variety":"Red Wine"
+   },
+   "17":{
+      "name":"Lava Cap Reserve Merlot 2015",
+      "region":"El Dorado, Sierra Foothills, California",
+      "variety":"Red Wine"
+   },
+   "20":{
+      "name":"Lava Cap Syrah 2009",
+      "region":"California",
+      "variety":"Red Wine"
+   },
+   "21":{
+      "name":"Lava Cap Syrah 2014",
+      "region":"El Dorado, Sierra Foothills, California",
+      "variety":"Red Wine"
+   },
+   "22":{
+      "name":"Lava Cap Syrah 2013",
+      "region":"El Dorado, Sierra Foothills, California",
+      "variety":"Red Wine"
+   },
+   "23":{
+      "name":"Lava Vine Winery Knights Valley Reserve Cabernet Sauvignon 2013",
+      "region":"Knights Valley, Sonoma County, California",
+      "variety":"Red Wine"
+   },
+   "24":{
+      "name":"Lava Vine Winery Napa Valley Cabernet Sauvignon 2014",
+      "region":"Napa Valley, California",
+      "variety":"Red Wine"
+   },
+   "25":{
+      "name":"Lava Vine Winery Napa Valley Reserve Cabernet Sauvignon 2012",
+      "region":"Napa Valley, California",
+      "variety":"Red Wine"
+   },
+   "26":{
+      "name":"Lava Vine Winery Napa Valley Reserve Cabernet Sauvignon 2013",
+      "region":"Napa Valley, California",
+      "variety":"Red Wine"
+   }
+}
